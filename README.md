@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Austin Kellough, I am currently a Computer Science major at Wright State University.
+My name is Austin Kellough, I am currently a Computer Science major at Wright State University. This semester I am going to be working on getting better at C++ and working on learning Python.
 <!--
 **AustinK1123/AustinK1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
