@@ -9,6 +9,18 @@ Cheesy taters
 
 $6.16 
 
+bowl 
+brown rice 
+chicken 
+sour cream 
+corn 
+lettuce 
+cheese 
+regular coke 
+
+$13.53
+
+
 <!--
 **AustinK1123/AustinK1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
