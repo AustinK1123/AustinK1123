@@ -42,6 +42,3 @@ Here are the languages I’ve worked with so far:
 - Game development with **Unity**
 - Visual and UI design within game environments
 - Integrating programming logic into interactive systems
-
-
-This is a demo
